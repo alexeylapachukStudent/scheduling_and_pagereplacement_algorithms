@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/FIFO_LRU.iml" filepath="$PROJECT_DIR$/.idea/FIFO_LRU.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/LRU-Cache-main/.idea/LLD.iml" filepath="$USER_HOME$/Downloads/LRU-Cache-main/.idea/LLD.iml" />
+    </modules>
+  </component>
+</project>
